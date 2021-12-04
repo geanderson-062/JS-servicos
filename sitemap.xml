@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://js-servicos-gerais.netlify.app/index.html</loc>
+  <lastmod>2021-12-04T18:56:52+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://js-servicos-gerais.netlify.app/source/views/public/revestimento.html</loc>
+  <lastmod>2021-12-04T18:56:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://js-servicos-gerais.netlify.app/source/views/public/pintura.html</loc>
+  <lastmod>2021-12-04T18:56:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://js-servicos-gerais.netlify.app/source/views/public/reforma.html</loc>
+  <lastmod>2021-12-04T18:56:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://js-servicos-gerais.netlify.app/source/views/public/forropvc.html</loc>
+  <lastmod>2021-12-04T18:56:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://js-servicos-gerais.netlify.app/source/views/public/forromadeira.html</loc>
+  <lastmod>2021-12-04T18:56:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://js-servicos-gerais.netlify.app/source/views/public/portas.html</loc>
+  <lastmod>2021-12-04T18:56:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://js-servicos-gerais.netlify.app/source/views/public/grades.html</loc>
+  <lastmod>2021-12-04T18:56:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://js-servicos-gerais.netlify.app/source/views/public/eletrica.html</loc>
+  <lastmod>2021-12-04T18:56:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://js-servicos-gerais.netlify.app/source/views/public/hidraulica.html</loc>
+  <lastmod>2021-12-04T18:56:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://js-servicos-gerais.netlify.app/source/views/screens/politicas_de_privacidade.html</loc>
+  <lastmod>2021-12-04T18:56:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://js-servicos-gerais.netlify.app/source/views/screens/solicitar_sevico.html</loc>
+  <lastmod>2021-12-04T18:56:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://js-servicos-gerais.netlify.app/</loc>
+  <lastmod>2021-12-04T18:56:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://js-servicos-gerais.netlify.app/resource/app/termos%20de%20politica%20e%20privacidade.pdf</loc>
+  <lastmod>2021-12-04T18:56:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
