@@ -1,0 +1,29 @@
+sistema devera ser publicado no google cloud
+
+sistema não deve ter banco 
+
+sistema tem que ser estatico 
+
+sistema não tera documentação 
+
+sistema vai ter sidemap 
+
+caminhos: 
+
+../../../resource/img/servicos/revestimentos.png
+
+../../../resource/img/servicos/pintura.png
+
+../../../resource/img/servicos/reforma.png
+
+../../../resource/img/servicos/forro_de_pvc.png
+
+../../../resource/img/servicos/forro_de_madeira.png
+
+../../../resource/img/servicos/portas.png
+
+../../../resource/img/servicos/janelas.png
+
+../../../resource/img/servicos/eletrica.png
+
+../../../resource/img/servicos/hidraulica.png
